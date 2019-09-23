@@ -21,7 +21,7 @@
 10. The project requires the car drive at least 4.32 miles without incident. As the image shown below, my car is able to drive over 20 miles at an average velocity of 41.5 mph without incident. I think it did a great job!
 
 (The image is run20miles.png in the project folder)
-[result_image](./run20miles.png)
+[image](./run20miles.png)[/image]
 
 
 
